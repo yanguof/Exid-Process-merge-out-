@@ -1,0 +1,7 @@
+location0：0~18
+location1：19~38（存在需要的强制汇出场景）
+location2：39~52
+location3：53~60
+location4：61~72
+location5：73~77
+location6：78~92
